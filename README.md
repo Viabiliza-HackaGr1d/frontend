@@ -1,4 +1,4 @@
-<img src="https://github.com/gr1d-challenge-repository/frontend/blob/master/.git-files/logo.png?raw=true" width="100" height="100" />
+<img src="https://github.com/gr1d-challenge-repository/frontend/blob/master/.git-files/logo.png?raw=true" width="100" height="100" align="center" />
 
 <h1 align="center">
   Viabiliza
