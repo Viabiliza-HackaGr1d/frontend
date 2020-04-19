@@ -1,4 +1,4 @@
-![](https://github.com/gr1d-challenge-repository/frontend/blob/master/.git-files/logo.png?raw=true | height=100)
+![](https://github.com/gr1d-challenge-repository/frontend/blob/master/.git-files/logo.png?raw=true | width=100)
 
 <h1 align="center">
   Viabiliza
