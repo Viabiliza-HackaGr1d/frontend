@@ -1,3 +1,5 @@
+![](https://github.com/gr1d-challenge-repository/frontend/blob/master/.git-files/logo.png?raw=true | height=100)
+
 <h1 align="center">
   Viabiliza
 </h1>
