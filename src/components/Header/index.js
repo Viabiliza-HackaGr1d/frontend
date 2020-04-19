@@ -2,13 +2,16 @@ import React from 'react';
 import { Link } from 'react-router-dom';
 import { NeuButton } from 'neumorphic-ui';
 import { Container } from './styles';
+import logo from '../../assets/logo.png';
 
 export default function Header() {
 
   return (
     <Container >
       <div className="menu">
-        <Link to="/"><h1>BROKER<br />HUB</h1></Link>
+        <Link to="/">
+          <img src={logo} alt="Viabiliza" />
+        </Link>
         <div className="options" >
           <ul>
             <li><Link to="/about"><NeuButton text="QUEM SOMOS?" ></NeuButton></Link></li>

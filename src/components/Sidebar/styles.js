@@ -44,11 +44,24 @@ export const Profile = styled.div`
   height: 40vh;
   width: 25vw;
   display: flex;
+  flex-direction: column;
   justify-content: center;
   align-items: center;
+  margin-bottom: 20px;
 
   img{
     height: 180px;
+  }
+
+  h1{
+    font-family: 'Roboto';
+    font-size: 30px;
+  }
+
+  h3{
+    font-family: 'Roboto';
+    font-weight: 400;
+    font-size: 15px;
   }
 
 `;

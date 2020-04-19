@@ -9,12 +9,14 @@ export default function Sidebar() {
     <Container>
       <Profile>
         <img src={defaultProfileImage} alt="Profile" />
+        <h1>José Da Silva</h1>
+        <h3>20 Clientes Satisfeitos</h3>
       </Profile>
       <ul>
         <Link ><li>VENDAS</li></Link>
         <Link ><li>CLIENTES</li></Link>
         <Link ><li>CARTEIRA</li></Link>
-        <Link ><li>CONTATO</li></Link>
+        <Link to="/dashboard/profile"><li>SEU PERFIL</li></Link>
       </ul>
     </Container>
   );

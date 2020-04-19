@@ -7,6 +7,7 @@ import About from './pages/About';
 import Goal from './pages/Goal';
 import Dashboard from './pages/Dashboard';
 import Register from './pages/Register';
+// import Profile from './pages/Profile';
 
 export default function Routes() {
   return (
@@ -18,6 +19,7 @@ export default function Routes() {
         <Route exact path="/about" component={About} />
         <Route exact path="/goal" component={Goal} />
         <Route exact path="/dashboard" component={Dashboard} />
+        {/* <Route exact path="/dashboard/profile" component={Profile} /> */}
       </Switch>
     </BrowserRouter>
   );

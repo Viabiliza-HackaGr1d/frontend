@@ -13,6 +13,11 @@ export const Container = styled.div`
     display: flex;
     justify-content: space-between;
     align-items: center;
+    min-height: 300px;
+
+    img{
+      height: 120px;
+    }
 
     ul{
       list-style: none;
