@@ -8,6 +8,8 @@ Este projeto foi desenvolvido durante o Hacka Gr1d Shawee, para tentar resolver 
 
 "Nesse mundo cada vez mais dinâmico e aberto, o desafio do Hacka Gr1d é buscar novas soluções para apoiar as corretoras de seguros a fazerem sua transformação digital utilizando os diferentes serviços que a Plataforma de Negócios oferece."
 
+!()[https://github.com/gr1d-challenge-repository/frontend/blob/master/.git-files/dashboard.png?raw=true]
+
 ## :rocket: Tecnologias
 
 Esse projeto foi desenvolvido com as seguintes tecnologias:
